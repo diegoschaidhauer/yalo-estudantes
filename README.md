@@ -9,6 +9,8 @@ Teste Técnico Yalo
 	- Express
 
 	Como executar:
+	
+	Configurar a conexão com o Banco de dados no arquivo database.js (server/infra/database.js
 
 	Deverá ser acessada a pasta 'server', então no terminal digitar o comando:
 	
